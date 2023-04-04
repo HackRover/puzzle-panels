@@ -13,5 +13,4 @@ There are two different types of buttons in this library.
 They are Pressed, Toggle mode.
   </p><p>
 Using the basic_usage.ino in the example to see how to use two different types of button modes.
-</p>
-  <br>
+</p><hr>
