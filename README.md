@@ -14,4 +14,4 @@ They are Pressed, Toggle mode.
   </p><p>
 Using the basic_usage.ino in the example to see how to use two different types of button modes.
 </p><hr>
-<p>All files except Boolean need to be tested. Rotary need to be rewritten in C++ to be imported into Arduino IDE. RGB and LED need to be tested. Boolean library is written and tested. Can be further optimized. https://docs.arduino.cc/learn/contributions/arduino-creating-library-guide. This is the link on how to create Arduino libraries. Insert original authors from the public files as needed</p>
+<p>All files except Boolean need to be tested. Rotary need to be rewritten in C++ to be imported into Arduino IDE. RGB and LED need to be tested. Boolean library is written and tested. Can be further optimized. Each libraries READMEs need to be rewritten. Documentation for each library needs to be written in LaTeX. https://docs.arduino.cc/learn/contributions/arduino-creating-library-guide. This is the link on how to create Arduino libraries. Insert original authors from the public files as needed</p>
