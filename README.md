@@ -14,6 +14,6 @@ They are Pressed, Toggle mode.
   </p><p>
 Using the basic_usage.ino in the example to see how to use two different types of button modes.
 </p><hr>
-<p>All files except Boolean need to be tested. Rotary need to be rewritten in C++ to be imported into Arduino IDE. RGB and LED need to be tested. Boolean library is written and tested. Can be further optimized. Each libraries READMEs need to be rewritten. Documentation for each library needs to be written in LaTeX. https://docs.arduino.cc/learn/contributions/arduino-creating-library-guide. This is the link on how to create Arduino libraries. Insert original authors from the public files as needed
+<p>All files except Boolean need to be tested. Rotary need to be rewritten in C++ to be imported into Arduino IDE. RGB and LED need to be tested. Boolean library is written and tested. Can be further optimized. Each libraries READMEs need to be rewritten. Documentation for each library needs to be written in LaTeX. https://docs.arduino.cc/learn/contributions/arduino-creating-library-guide. This is the link on how to create Arduino libraries. Insert original authors from the public files as needed. A Template folder is created for the creation of future library files.
   
-  TODO: 1) reformat all individual components README, 2) rewrite general README for all puzzle panel components, 3) rewrite headers and comments for all files, and 4) write a template file for .h and .cpp files for creation of future library files. Link how to create custom Arduino libraries</p>
+  TODO: 1) reformat all individual components README, 2) rewrite general README for all puzzle panel components, and 3) rewrite headers and comments for all files </p>
